@@ -1,0 +1,5 @@
+enum IdType
+{
+    VIDEO,
+    CHANNEL,
+}

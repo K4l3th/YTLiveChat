@@ -1,0 +1,17 @@
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.csproj.AssemblyReference.cache
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.GeneratedMSBuildEditorConfig.editorconfig
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.AssemblyInfoInputs.cache
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.AssemblyInfo.cs
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.csproj.CoreCompileInputs.cache
+B:\01_Entwicklung\03_C#\YTLiveChat\bin\Debug\net6.0\YTLiveChat.exe
+B:\01_Entwicklung\03_C#\YTLiveChat\bin\Debug\net6.0\YTLiveChat.deps.json
+B:\01_Entwicklung\03_C#\YTLiveChat\bin\Debug\net6.0\YTLiveChat.runtimeconfig.json
+B:\01_Entwicklung\03_C#\YTLiveChat\bin\Debug\net6.0\YTLiveChat.dll
+B:\01_Entwicklung\03_C#\YTLiveChat\bin\Debug\net6.0\YTLiveChat.pdb
+B:\01_Entwicklung\03_C#\YTLiveChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.csproj.CopyComplete
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.dll
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\refint\YTLiveChat.dll
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.pdb
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\YTLiveChat.genruntimeconfig.cache
+B:\01_Entwicklung\03_C#\YTLiveChat\obj\Debug\net6.0\ref\YTLiveChat.dll
